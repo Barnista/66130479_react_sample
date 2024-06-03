@@ -13,7 +13,7 @@ const BASE_URL = Common.API_URL;
 const options = Common.options;
 export default class report extends Component {
   state = {
-    zipcode: 33000,
+    zipcode: 10200,
     amphur_code: 0,
     amphur_name: "",
     province_code: 0,
@@ -62,7 +62,7 @@ export default class report extends Component {
         <Navbar bg="primary" variant="dark">
           <Container>
             <Navbar.Brand href="#">ค้นหาเลขไปรษณีย์</Navbar.Brand>
-            <div>{/* Name */}</div>
+            <div style={{color: '#fff'}}>Sirintorn Pengsiri 66130479</div>
           </Container>
         </Navbar>
         <Container>
