@@ -1,8 +1,8 @@
-import Report from "./report";
+import BaseLayout from "./BaseLayout";
 function App() {
   return (
     <div>
-      <Report />
+      <BaseLayout />
     </div>
   );
 }
