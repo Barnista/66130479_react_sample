@@ -8,7 +8,7 @@ const BASE_URL = Common.API_URL;
 const options = Common.options;
 export default class report extends Component {
   state = {
-    zipcode: 74000,
+    zipcode: 10200,
     amphur_code: 0,
     amphur_name: "",
     province_code: 0,

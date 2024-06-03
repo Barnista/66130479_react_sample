@@ -17,7 +17,7 @@ export default class BaseLayout extends Component {
               <Nav.Link href="/report">Home</Nav.Link>
               <Nav.Link href="/product">Products</Nav.Link>
             </Nav>
-            <div style={{ color: "white" }}>66230125 Tummanoon Wanchaem</div>
+            <div style={{ color: "white" }}>Sirintorn Pengsiri 66130479</div>
           </Container>
         </Navbar>
         <p></p>
